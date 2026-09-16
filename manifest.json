@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-15T23:54:30.107Z",
+  "generatedAt": "2026-09-16T02:21:43.775Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-09-15T21:38:47.532Z",
@@ -11,7 +11,7 @@
       ]
     },
     "analyst": {
-      "updatedAt": "2026-09-15T15:53:49.710Z",
+      "updatedAt": "2026-09-16T02:19:49.779Z",
       "count": 221,
       "tier": "cold",
       "formats": [
@@ -29,7 +29,7 @@
       ]
     },
     "intelsat": {
-      "updatedAt": "2026-09-15T15:53:53.972Z",
+      "updatedAt": "2026-09-16T02:19:54.734Z",
       "count": 55,
       "tier": "cold",
       "formats": [
@@ -38,7 +38,7 @@
       ]
     },
     "ses": {
-      "updatedAt": "2026-09-15T15:53:58.242Z",
+      "updatedAt": "2026-09-16T02:19:58.996Z",
       "count": 68,
       "tier": "cold",
       "formats": [
@@ -47,7 +47,7 @@
       ]
     },
     "eutelsat": {
-      "updatedAt": "2026-09-15T15:54:02.480Z",
+      "updatedAt": "2026-09-16T02:20:03.237Z",
       "count": 29,
       "tier": "cold",
       "formats": [
@@ -56,7 +56,7 @@
       ]
     },
     "telesat": {
-      "updatedAt": "2026-09-15T15:54:06.721Z",
+      "updatedAt": "2026-09-16T02:20:07.619Z",
       "count": 17,
       "tier": "cold",
       "formats": [
@@ -65,7 +65,7 @@
       ]
     },
     "amateur": {
-      "updatedAt": "2026-09-15T15:54:10.978Z",
+      "updatedAt": "2026-09-16T02:20:11.915Z",
       "count": 96,
       "tier": "cold",
       "formats": [
@@ -83,7 +83,7 @@
       ]
     },
     "cubesat": {
-      "updatedAt": "2026-09-15T15:54:15.500Z",
+      "updatedAt": "2026-09-16T02:20:16.162Z",
       "count": 86,
       "tier": "cold",
       "formats": [
@@ -92,7 +92,7 @@
       ]
     },
     "military": {
-      "updatedAt": "2026-09-15T15:54:19.742Z",
+      "updatedAt": "2026-09-16T02:20:20.388Z",
       "count": 24,
       "tier": "cold",
       "formats": [
@@ -101,7 +101,7 @@
       ]
     },
     "radar": {
-      "updatedAt": "2026-09-15T15:54:23.964Z",
+      "updatedAt": "2026-09-16T02:20:25.214Z",
       "count": 10,
       "tier": "cold",
       "formats": [
@@ -110,7 +110,7 @@
       ]
     },
     "science": {
-      "updatedAt": "2026-09-15T15:54:28.195Z",
+      "updatedAt": "2026-09-16T02:20:29.468Z",
       "count": 46,
       "tier": "cold",
       "formats": [
@@ -119,7 +119,7 @@
       ]
     },
     "geodetic": {
-      "updatedAt": "2026-09-15T15:54:32.446Z",
+      "updatedAt": "2026-09-16T02:20:33.729Z",
       "count": 10,
       "tier": "cold",
       "formats": [
@@ -128,7 +128,7 @@
       ]
     },
     "engineering": {
-      "updatedAt": "2026-09-15T15:54:36.697Z",
+      "updatedAt": "2026-09-16T02:20:37.978Z",
       "count": 37,
       "tier": "cold",
       "formats": [
@@ -137,7 +137,7 @@
       ]
     },
     "education": {
-      "updatedAt": "2026-09-15T15:54:40.914Z",
+      "updatedAt": "2026-09-16T02:20:43.131Z",
       "count": 6,
       "tier": "cold",
       "formats": [
@@ -146,7 +146,7 @@
       ]
     },
     "resource": {
-      "updatedAt": "2026-09-15T15:54:45.199Z",
+      "updatedAt": "2026-09-16T02:20:48.006Z",
       "count": 167,
       "tier": "cold",
       "formats": [
@@ -155,7 +155,7 @@
       ]
     },
     "sarsat": {
-      "updatedAt": "2026-09-15T15:54:49.474Z",
+      "updatedAt": "2026-09-16T02:20:52.267Z",
       "count": 83,
       "tier": "cold",
       "formats": [
@@ -164,7 +164,7 @@
       ]
     },
     "dmc": {
-      "updatedAt": "2026-09-15T15:54:53.740Z",
+      "updatedAt": "2026-09-16T02:20:56.559Z",
       "count": 9,
       "tier": "cold",
       "formats": [
@@ -173,7 +173,7 @@
       ]
     },
     "tdrss": {
-      "updatedAt": "2026-09-15T15:54:57.982Z",
+      "updatedAt": "2026-09-16T02:21:00.797Z",
       "count": 26,
       "tier": "cold",
       "formats": [
@@ -182,7 +182,7 @@
       ]
     },
     "argos": {
-      "updatedAt": "2026-09-15T15:55:02.214Z",
+      "updatedAt": "2026-09-16T02:21:05.402Z",
       "count": 30,
       "tier": "cold",
       "formats": [
@@ -191,7 +191,7 @@
       ]
     },
     "x-comm": {
-      "updatedAt": "2026-09-15T15:55:06.469Z",
+      "updatedAt": "2026-09-16T02:21:09.676Z",
       "count": 20,
       "tier": "cold",
       "formats": [
@@ -200,7 +200,7 @@
       ]
     },
     "other-comm": {
-      "updatedAt": "2026-09-15T15:55:10.716Z",
+      "updatedAt": "2026-09-16T02:21:13.926Z",
       "count": 28,
       "tier": "cold",
       "formats": [
@@ -209,7 +209,7 @@
       ]
     },
     "sbas": {
-      "updatedAt": "2026-09-15T15:55:15.118Z",
+      "updatedAt": "2026-09-16T02:21:18.203Z",
       "count": 21,
       "tier": "cold",
       "formats": [
@@ -218,7 +218,7 @@
       ]
     },
     "nnss": {
-      "updatedAt": "2026-09-15T15:55:19.359Z",
+      "updatedAt": "2026-09-16T02:21:22.465Z",
       "count": 18,
       "tier": "cold",
       "formats": [
@@ -227,7 +227,7 @@
       ]
     },
     "musson": {
-      "updatedAt": "2026-09-15T15:55:23.969Z",
+      "updatedAt": "2026-09-16T02:21:26.746Z",
       "count": 3,
       "tier": "cold",
       "formats": [
@@ -236,7 +236,7 @@
       ]
     },
     "other": {
-      "updatedAt": "2026-09-15T15:55:28.119Z",
+      "updatedAt": "2026-09-16T02:21:30.895Z",
       "count": 0,
       "tier": "cold",
       "formats": [
@@ -245,7 +245,7 @@
       ]
     },
     "cosmos-1408-debris": {
-      "updatedAt": "2026-09-15T15:55:32.365Z",
+      "updatedAt": "2026-09-16T02:21:35.144Z",
       "count": 3,
       "tier": "cold",
       "formats": [
@@ -263,7 +263,7 @@
       ]
     },
     "iridium-33-debris": {
-      "updatedAt": "2026-09-15T15:55:36.807Z",
+      "updatedAt": "2026-09-16T02:21:39.420Z",
       "count": 110,
       "tier": "cold",
       "formats": [
@@ -272,7 +272,7 @@
       ]
     },
     "cosmos-2251-debris": {
-      "updatedAt": "2026-09-15T15:55:42.075Z",
+      "updatedAt": "2026-09-16T02:21:43.775Z",
       "count": 582,
       "tier": "cold",
       "formats": [
