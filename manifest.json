@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T17:23:14.053Z",
+  "generatedAt": "2026-10-23T19:44:17.718Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-10-23T17:21:42.022Z",
@@ -306,7 +306,7 @@
       ]
     },
     "hulianwang": {
-      "updatedAt": "2026-10-18T17:03:47.280Z",
+      "updatedAt": "2026-10-23T19:43:54.055Z",
       "count": 181,
       "tier": "hot",
       "formats": [
@@ -315,11 +315,10 @@
       ]
     },
     "kuiper": {
-      "updatedAt": "2026-10-18T17:04:24.884Z",
+      "updatedAt": "2026-10-23T19:43:59.126Z",
       "count": 391,
       "tier": "hot",
       "formats": [
-        "tle",
         "json"
       ]
     },
@@ -332,16 +331,16 @@
       ]
     },
     "visual": {
-      "updatedAt": "2026-09-01T09:07:36.801Z",
-      "count": 157,
+      "updatedAt": "2026-10-23T19:44:13.063Z",
+      "count": 155,
       "tier": "hot",
       "formats": [
         "tle"
       ]
     },
     "active": {
-      "updatedAt": "2026-09-01T09:07:26.327Z",
-      "count": 16040,
+      "updatedAt": "2026-10-23T19:44:08.371Z",
+      "count": 15916,
       "tier": "hot",
       "formats": [
         "tle"
@@ -485,12 +484,11 @@
       ]
     },
     "decaying": {
-      "updatedAt": "2026-09-01T09:08:02.270Z",
-      "count": 76,
+      "updatedAt": "2026-10-23T19:44:17.718Z",
+      "count": 67,
       "tier": "hot",
       "formats": [
-        "tle",
-        "json"
+        "tle"
       ]
     }
   },
