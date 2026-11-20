@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T18:15:11.718Z",
+  "generatedAt": "2026-11-20T19:31:45.359Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-11-20T07:38:28.044Z",
@@ -263,7 +263,7 @@
       ]
     },
     "iridium-33-debris": {
-      "updatedAt": "2026-11-20T04:53:24.161Z",
+      "updatedAt": "2026-11-20T19:30:57.020Z",
       "count": 109,
       "tier": "cold",
       "formats": [
@@ -272,11 +272,10 @@
       ]
     },
     "cosmos-2251-debris": {
-      "updatedAt": "2026-11-20T04:53:28.453Z",
+      "updatedAt": "2026-11-20T19:31:45.359Z",
       "count": 582,
       "tier": "cold",
       "formats": [
-        "tle",
         "json"
       ]
     },
