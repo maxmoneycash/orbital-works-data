@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T07:37:56.875Z",
+  "generatedAt": "2026-11-21T09:07:39.194Z",
   "groups": {
     "stations": {
       "updatedAt": "2026-11-21T07:35:02.423Z",
@@ -280,18 +280,19 @@
       ]
     },
     "starlink": {
-      "updatedAt": "2026-10-29T20:47:58.163Z",
-      "count": 10632,
+      "updatedAt": "2026-11-21T09:06:25.099Z",
+      "count": 10600,
       "tier": "hot",
       "formats": [
         "tle"
       ]
     },
     "oneweb": {
-      "updatedAt": "2026-11-11T01:41:45.759Z",
+      "updatedAt": "2026-11-21T09:07:02.069Z",
       "count": 651,
       "tier": "hot",
       "formats": [
+        "tle",
         "json"
       ]
     },
@@ -313,11 +314,11 @@
       ]
     },
     "kuiper": {
-      "updatedAt": "2026-11-11T01:42:27.625Z",
+      "updatedAt": "2026-11-21T09:07:27.152Z",
       "count": 391,
       "tier": "hot",
       "formats": [
-        "tle"
+        "json"
       ]
     },
     "last-30-days": {
